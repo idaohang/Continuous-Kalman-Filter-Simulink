@@ -10,3 +10,7 @@ Requires:
 * Matlab
 * Simulink
 * Control System Toolbox (recommended for analysis and further understanding)
+
+Resources:
+* [Kalman filter tutorial - UNC](http://www.cs.unc.edu/~welch/kalman/)
+* [Implementing the Kalman filter on embedded systems](http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/)
