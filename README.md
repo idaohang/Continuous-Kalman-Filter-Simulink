@@ -7,6 +7,6 @@ Modify the A,Bu,Bw,C,D matrices, and play with the noise to see the effect of th
 
 Feel free to use this Simulink Model to teach or learn more about the Kalman Filter.
 Requires:
-1. Matlab
-2. Simulink
-3. Control System Toolbox (recommended for analysis and furthering understanding)
+* Matlab
+* Simulink
+* Control System Toolbox (recommended for analysis and further understanding)
